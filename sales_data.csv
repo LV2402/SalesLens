@@ -1,0 +1,26 @@
+OrderID,ProductID,ProductName,Category,Quantity,UnitPrice,SaleDate,Region,CustomerSegment
+1001,P001,Laptop Pro,Electronics,2,1200.00,2023-01-05,North,Consumer
+1002,P003,Mechanical Keyboard,Electronics,1,150.00,2023-01-06,South,Corporate
+1003,P002,Wireless Mouse,Electronics,3,25.00,2023-01-07,East,Consumer
+1004,P001,Laptop Pro,Electronics,1,1200.00,2023-01-08,West,Consumer
+1005,P004,Ergonomic Chair,Office Furniture,1,300.00,2023-01-09,North,Corporate
+1006,P005,Desk Lamp,Office Furniture,2,45.00,2023-01-10,South,Consumer
+1007,P001,Laptop Pro,Electronics,1,1200.00,2023-01-11,East,Corporate
+1008,P006,Coffee Maker,Home Appliances,1,75.00,2023-01-12,West,Consumer
+1009,P003,Mechanical Keyboard,Electronics,2,150.00,2023-01-13,North,Consumer
+1010,P007,Smartphone X,Electronics,1,800.00,2023-01-14,South,Consumer
+1011,P002,Wireless Mouse,Electronics,NaN,25.00,2023-01-15,East,Corporate
+1012,P005,Desk Lamp,Office Furniture,1,45.00,2023-01-16,West,Consumer
+1013,P004,Ergonomic Chair,Office Furniture,1,300.00,2023-01-17,North,Corporate
+1014,P001,Laptop Pro,Electronics,1,1200.00,2023-01-18,South,Consumer
+1015,P008,External SSD,Electronics,1,90.00,2023-01-19,East,Consumer
+1016,P003,Mechanical Keyboard,Electronics,NaN,150.00,2023-01-20,West,Corporate
+1017,P001,Laptop Pro,Electronics,2,1200.00,2023-01-21,North,Consumer
+1018,P009,Smart Watch,Electronics,1,250.00,2023-01-22,South,Consumer
+1019,P010,Bluetooth Speaker,Electronics,3,60.00,2023-01-23,East,Corporate
+1020,P002,Wireless Mouse,Electronics,2,25.00,2023-01-24,West,Consumer
+1021,P007,Smartphone X,Electronics,1,800.00,2023-01-25,North,Consumer
+1022,P006,Coffee Maker,Home Appliances,1,75.00,2023-01-26,South,Corporate
+1023,P001,Laptop Pro,Electronics,1,1200.00,2023-01-27,East,Consumer
+1024,P008,External SSD,Electronics,2,90.00,2023-01-28,West,Consumer
+1025,P004,Ergonomic Chair,Office Furniture,1,300.00,2023-01-29,North,Corporate
